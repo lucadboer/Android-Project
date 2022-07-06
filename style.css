@@ -86,10 +86,17 @@ section{
 }
 
 ul {
-    list-style-type: '\2714\00A0\00A0' ;
+    list-style-type: '\2714\00A0' ;
     list-style-position: inside;
     columns: 2;
 }
+
+ul > li {
+    line-height: 30px;
+    margin: auto;
+    font-size: 14px;
+}
+
 
 #saibamais {
     color: white;
@@ -105,6 +112,8 @@ ul {
 #queraprender {
     background-color: #84e1ac94;
     border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.452);
+    width: 100%;
 }
 
 #padding-saibamais {
