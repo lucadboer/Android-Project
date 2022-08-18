@@ -6,7 +6,7 @@ O intuito desse projeto foi praticar as habilidades com HTML e CSS com o auxíli
 
 Muito feliz com o resultado! :)
 
-Primeiro site desenvolvido (de verdade) com as tecnologias HTML e CSS
+First site developed (of true) with a technologies HTML and CSS 
 The objective of this project was to train HTML and CSS skills with the help of the Video Course channel.
 
 Very happy with the result! :)
